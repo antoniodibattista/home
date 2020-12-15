@@ -35,7 +35,7 @@ We plan to use the following technologies but we are evaluating alternative comp
 
 ###  GPP_frontend
  - [GPP_frontend](https://github.com/LedgerProject/GPP_frontend)
- - ***GPP_frontend*** TODO - does basic cryptography and contains most of the business logic.
+ - ***GPP_frontend*** frontend for GPP staff and third sector operators. Allows the display of wallets by a token and the management of the organizations and information displayed on the mobile application.
  - It requires Angular 9 or above.
  - It connects to GPP_backend to call the available endpoints.
 
