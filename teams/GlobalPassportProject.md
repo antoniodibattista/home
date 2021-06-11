@@ -33,7 +33,7 @@ We plan to use the following technologies:
 
  - Node.js, Loopback4, Typescript, PostgreSQL (back-end)
  - Angular 9, CoreUI, Typescript (front-end)
- - React Native, DECode App (mobile app)
+ - React Native, Typescript, DECode App (mobile app)
  - Restroom, Sawtooth, IPFS (blockchain)
 
 ## The Repos
@@ -52,7 +52,7 @@ We plan to use the following technologies:
 
 ###  GPP_app
  - [GPP_app](https://github.com/LedgerProject/GPP_app)
- - ***GPP_app*** mobile application for GPP available for Android and iOS with two main functionalities: the "DocWallet" and "Where I Am" sections.
+ - ***GPP_app*** mobile application for GPP available for Android and iOS with four functionalities: the "DocWallet", "Where I Am", "AbuseAlarm" and "News&Stories" sections.
  - It requires React Native.
  - It connects to GPP_backend to call the available endpoints.
 
@@ -60,11 +60,32 @@ We plan to use the following technologies:
 
 The third sector operator service portal is available at the following link:
 
-[Global Passport Project - Service Portal](https://www.globalpassportproject.org)
+[Global Passport Project - Service Portal](https://www.gppadmin.org)
 
 You can register as third sector operator and try how work the portal or login with these demo credentials:
 
-E-Mail: johndoe@demo.org
-Password: demo2020
+Name: Operator User
+E-Mail: operatorgpp@intuizionicreative.it
+Password: start2021!
 
-If you need access as a Global Passport Project operator, please ask the secret key to [dev@kosmopolis.me](mailto:dev@kosmopolis.me)
+## Mobile Application
+
+The mobile application is now available on Google Play in early access (we are testing the app) at the following link:
+
+[Global Passport Project - Mobile Application](https://play.google.com/store/apps/details?id=com.kosmopolis.gpp)
+
+You can register as user and try how work the mobile application or login with these demo credentials:
+
+Name: Mary Doe
+E-Mail: usergpp@intuizionicreative.it
+Password: start2021!
+Answers:
+Where did your parents meet?  Paris
+What is your home town?       Naples
+What is your favorite dish?   Pizza
+
+## Website
+
+The project presentation website is available at the following link:
+
+[Global Passport Project - Website](https://www.globalpassportproject.org)
